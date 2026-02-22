@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Platform
 
-ระบบ E-Commerce แบบครบวงจร พัฒนาด้วย **Next.js 15** สำหรับ Frontend และ **Elysia (Bun)** สำหรับ Backend พร้อม MongoDB เป็นฐานข้อมูล
+ระบบ E-Commerce พัฒนาด้วย **Next.js 15** สำหรับ Frontend และ **Elysia (Bun)** สำหรับ Backend พร้อม MongoDB เป็นฐานข้อมูล
 
 ![Version](https://img.shields.io/badge/version-1.0.50-blue)
 ![Node](https://img.shields.io/badge/Node-20+-green)
